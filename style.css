@@ -1,0 +1,13 @@
+body {
+    background-color: #FAF7F4;
+    color: #9C2D41;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+.reverse {
+    background-color: #CB857C  !important;
+    color: #F6CBB7;
+}
+p {
+    padding: 20px;
+}
